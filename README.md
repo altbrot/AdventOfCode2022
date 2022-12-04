@@ -1,6 +1,7 @@
 # Advent of code
+Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. For more details got to https://adventofcode.com/
 ## Intro
-This is the domain driven aproach to solving puzzels at https://adventofcode.com
+This is the domain driven aproach to solving these puzzels.
 
 For the matter of simplicity, all 3 layers (Domain, Application and Infrastructure) are kept in one Project. If separated, inversion of dependency should be followed from the outside to the inside:
 
