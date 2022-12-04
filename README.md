@@ -11,5 +11,5 @@ The Project is build with .net 6.
 
 It uses DI and nunit for testing.
 
-To run, clone this repo and run with `dotnet run`
+To run, clone this repo and run with e.g. `dotnet run --project .\2022\Altbrot.AoC.2022.01\Altbrot.AoC.2022.01.csproj`
 
