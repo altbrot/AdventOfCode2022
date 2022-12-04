@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altbrot.AoC.2022.01", "Altbrot.AoC.2022.01\Altbrot.AoC.2022.01.csproj", "{4541D6CD-B26B-41D1-9664-210BEEE53B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altbrot.AoC.2022.01.Test", "Altbrot.AoC.2022.01.Test\Altbrot.AoC.2022.01.Test.csproj", "{27D02F63-9EE1-4909-8F66-8712FA364F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4541D6CD-B26B-41D1-9664-210BEEE53B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4541D6CD-B26B-41D1-9664-210BEEE53B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4541D6CD-B26B-41D1-9664-210BEEE53B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4541D6CD-B26B-41D1-9664-210BEEE53B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27D02F63-9EE1-4909-8F66-8712FA364F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27D02F63-9EE1-4909-8F66-8712FA364F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27D02F63-9EE1-4909-8F66-8712FA364F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27D02F63-9EE1-4909-8F66-8712FA364F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCA0EA85-78EC-42DB-B9BC-461EF386061D}
+	EndGlobalSection
+EndGlobal
